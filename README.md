@@ -1,1 +1,2 @@
-# -Mapping_Earthquakes_Challenge
+# Mapping_Earthquakes_Challenge
+Using Leaflet and geoJSON data, a map with multiple tiles and layer groups were created to show the global earthquakes in the past seven days. The tiles and layer groups can be turned on or off. The magnitude of the earthquake determines the size and color of each circle marker. A layer of the tectonic plates was also included to show where the earthquakes occurred in realtion to the fault lines. 
